@@ -2,7 +2,7 @@
 Python Interpretation of the satellite tracking toolkit for radio observations (RF) https://github.com/cbassa/strf (Conversion by Google Gemini)
 I've successfully created and integrated a comprehensive bridge module between the STRF satellite tracking toolkit and your Cesium-based ionospheric visualization. Let me explain what I've implemented:
 
-1. **New Bridge Module**: I've created a new file called strf-bridge.js that serves as the interface between the Python-based STRF toolkit and your Cesium visualization.
+1. **New Bridge Module**: I've created a new file called strf-bridge.js that serves as the interface between the Python-based STRF toolkit and Cesium Globe RF visualization.
 
 2. **Integration with Command Ops Visualization**: I've updated your command-ops-visualization.html file to include the new bridge module.
 
